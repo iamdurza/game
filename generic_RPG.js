@@ -1,1 +1,1 @@
-var game = new Phaser.Game(1500, 1000)
+var game = new Phaser.Game(1200, 700)
