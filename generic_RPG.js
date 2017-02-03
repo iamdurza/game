@@ -1,4 +1,4 @@
-var game = new Phaser.Game(1400, 720)
+var game = new Phaser.Game(1400, 680)
 class Boot {
   preload() {
     this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
